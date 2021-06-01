@@ -10,9 +10,9 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 // import com.example.bins.Teacher;
 
 @SpringBootApplication
-public class SpringEmployeeApplication {
+public class SpringEmployeeApplication extends SpringBootServletInitializer {
 
-	public static void main(String[] args) extends SpringBootServletInitializer {
+	public static void main(String[] args)  {
 		ConfigurableApplicationContext context = SpringApplication.run(SpringEmployeeApplication.class, args);
 //		Employee e =context.getBean(Employee.class);
 //		Teacher t=context.getBean(Teacher.class);
