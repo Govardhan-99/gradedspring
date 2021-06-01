@@ -71,7 +71,7 @@
 	</dependencies>
 
 	<build>
-		<fileName>HCL</fileName>
+		<finalName>HCL</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
