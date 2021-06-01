@@ -23,7 +23,7 @@ public class SpringEmployeeApplication {
 	}
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-         return application.sources(SpringbootFoodApplication.class);
+         return application.sources(SpringEmployeeApplication.class);
     }
 
 }
