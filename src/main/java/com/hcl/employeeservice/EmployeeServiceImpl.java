@@ -52,7 +52,7 @@ public class EmployeeServiceImpl  implements IEmployee{
 		if(empdao.findById(id).isPresent())
 			return empdao.findById(id).get();
 		else 
-			throw new MyException("No Id matches");
+			throw new MyException("Id didnt matches");
 
 	}
 
