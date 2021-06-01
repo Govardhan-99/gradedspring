@@ -6,8 +6,8 @@ import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 
-import com.example.bins.Employee;
-import com.example.bins.Teacher;
+// import com.example.bins.Employee;
+// import com.example.bins.Teacher;
 
 @SpringBootApplication
 public class SpringEmployeeApplication {
