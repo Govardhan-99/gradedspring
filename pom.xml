@@ -73,7 +73,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>HCL</finalName>
+	
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
