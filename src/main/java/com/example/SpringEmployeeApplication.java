@@ -16,7 +16,7 @@ public class SpringEmployeeApplication extends SpringBootServletInitializer {
 		ConfigurableApplicationContext context = SpringApplication.run(SpringEmployeeApplication.class, args);
 //		Employee e =context.getBean(Employee.class);
 //		Teacher t=context.getBean(Teacher.class);
-//		System.out.println(t.hashCode());
+		System.out.println("Deveoops.....................");
 //		System.out.println(t.hashCode());
 //		System.out.println(t.hashCode());
 //		System.out.println(t.hashCode());
