@@ -8,7 +8,7 @@ public class DevoopsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DevoopsApplication.class, args);
-		System.out.println("*** Hello DevOps ***");
+		System.out.println(" HELLO DEVOPS ");
 	}
 
 }
